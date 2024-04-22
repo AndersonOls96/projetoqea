@@ -9,6 +9,7 @@ const Resposta = require('./database/Resposta')
 require("dotenv").config()
 
 //Conexão com o banco de dados
+require("dotenv").config()
 
 connection
     .authenticate()
